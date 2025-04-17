@@ -17,7 +17,7 @@
   |  NOM              |    Role      |     Tache a faire
   --------------------------------------------------------------------------------------
   
-  |  Dieynaba SOW | Data Engineer | Collecte et nettoyage des donnees
+  |  Diarra | Data Engineer | Collecte et nettoyage des donnees
   ---------------------------------------------------------------------------------------
   
   |  Mbacké THIOUB   | Data scientist | Préparation et modelisation predictive

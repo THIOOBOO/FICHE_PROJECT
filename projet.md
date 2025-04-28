@@ -61,7 +61,7 @@
   ---------------------------------Livrables------------------------------------>
   
   Lien vers la page GitHub Pages :
-  [(https://github.com/THIOOBOO/projet.fit)]
+  [(https://github.com/THIOOBOO/projet.git)]
   
   ----------------------------------Impact-------------------------------------->
 
